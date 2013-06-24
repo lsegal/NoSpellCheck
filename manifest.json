@@ -1,6 +1,7 @@
 {
-  "name": "NoSpellcheck",
-  "version": "1.0.0",
+  "name": "NoSpellCheck",
+  "manifest_version": 2,
+  "version": "1.0.1",
   "description": "Enables spellchecking only inside of textarea elements, like Firefox.",
   "icons": { 
     "128": "icon128.png",
